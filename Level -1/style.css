@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+body{
+    background-color: #ffff00;
+}
+button{
+    color: aliceblue;
+    background-color: rgb(19, 18, 17);
+}
+button:hover{
+    color: aqua;
+    pointer-events: stroke;
+}
